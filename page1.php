@@ -1,4 +1,1 @@
-<?php
-header("Location: page2.php");
-exit;
-?>
+ <?php header("Location: page2.php"); ?>
